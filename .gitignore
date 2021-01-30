@@ -1,0 +1,6 @@
+_pycache_
+.vscode
+board.py 
+constants.py   
+grid.py  
+map.txt
